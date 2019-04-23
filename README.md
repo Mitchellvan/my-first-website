@@ -4,7 +4,7 @@ Welcome!
 
 This is my very first web page I'm creating using the tools and knowledge provived by CodeInstitute. 
 
-On this site we have used HTML, GIT and GITHUB so far and I'm looking forward to exploring more in the modules to come. 
+On this site we have used HTML, CSS, GIT and GITHUB so far and I'm looking forward to exploring more in the modules to come. 
 
 ### My goals
 * Build the base knowledge for Web Developement
